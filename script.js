@@ -7,6 +7,6 @@ var a=prompt("Enter UserName");
   	else
   	{
   		alert("invalid details");
-  		window.location.href="index.html";
+  		window.location.href="start.html";
   	}
   	
